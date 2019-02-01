@@ -1,2 +1,2 @@
-# hello-worlds
+# hello-world
 just another repo
